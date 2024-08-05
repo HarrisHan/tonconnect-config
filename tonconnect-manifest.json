@@ -1,7 +1,7 @@
 {
   "url": "https://dcards.com",
   "name": "Dcards",
-  "iconUrl": "",
-  "termsOfUseUrl": "",
-  "privacyPolicyUrl": ""
+  "iconUrl": "https://harrishan.github.io/tonconnect-config/logo.png",
+  "termsOfUseUrl": "https://harrishan.github.io/tonconnect-config/terms-of-use.txt",
+  "privacyPolicyUrl": "https://harrishan.github.io/tonconnect-config/privacy-policy.txt"
 }
